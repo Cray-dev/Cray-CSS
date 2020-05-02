@@ -1,0 +1,75 @@
+.cray-css-code {
+    background-color: #312f2fb0;
+}
+
+.cray-css-code-round-1 {
+    background-color: #312f2fb0;
+    border-radius: 1px;
+}
+
+.cray-css-code-round-2 {
+    background-color: #312f2fb0;
+    border-radius: 2px;
+}
+
+.cray-css-code-round-3 {
+    background-color: #312f2fb0;
+    border-radius: 3px;
+}
+
+.cray-css-code-round-4 {
+    background-color: #312f2fb0;
+    border-radius: 4px;
+}
+
+.cray-css-code-round-5 {
+    background-color: #312f2fb0;
+    border-radius: 5px;
+}
+
+.cray-css-code-round-10 {
+    background-color: #312f2fb0;
+    border-radius: 10px;
+}
+
+.cray-css-code-round-15 {
+    background-color: #312f2fb0;
+    border-radius: 15px;
+}
+
+.cray-css-bg-grey {
+    background-color: ;
+}
+
+.cray-css-bg-red {
+    background-color: ;
+}
+
+.cray-css-bg-green {
+    background-color: ;
+}
+
+.cray-css-bg-orange {
+    background-color: ;
+}
+
+.cray-css-bg-blue {
+    background-color: ;
+}
+
+.cray-css-bg-black {
+    background-color: ;
+}
+
+.cray-css-bg-white {
+    background-color: ;
+}
+
+.cray-css-notification {
+    padding: 1px;
+    width: 250px;
+    content: url('./../info.png');
+    background-color: #4ebe0db0;
+    color: white;
+    font-size: 7.5px;
+}
