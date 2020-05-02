@@ -38,37 +38,43 @@
 }
 
 .cray-css-bg-grey {
-    background-color: ;
+    background-color: #7f8c8d;
 }
 
 .cray-css-bg-red {
-    background-color: ;
+    background-color: #c0392b;
 }
 
 .cray-css-bg-green {
-    background-color: ;
+    background-color: #16a085;
 }
 
 .cray-css-bg-orange {
-    background-color: ;
+    background-color: #f39c12;
 }
 
 .cray-css-bg-blue {
-    background-color: ;
+    background-color: #3498db;
 }
 
 .cray-css-bg-black {
-    background-color: ;
+    background-color: #2c3e50;
 }
 
 .cray-css-bg-white {
-    background-color: ;
+    background-color: #ecf0f1;
+}
+
+.cray-css-notification-image {
+    background-image: url("./../img/success.png");
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 75px;
 }
 
 .cray-css-notification {
     padding: 1px;
     width: 250px;
-    content: url('./../info.png');
     background-color: #4ebe0db0;
     color: white;
     font-size: 7.5px;
