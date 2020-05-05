@@ -1,56 +1,56 @@
 .cray-css-code {
-    background-color: #7f8c8d;
+    background-color: #636363;
 }
 
 .cray-css-code-round-1 {
-    background-color: #7f8c8d;
+    background-color: #636363;
     border-radius: 1px;
 }
 
 .cray-css-code-round-2 {
-    background-color: #7f8c8d;
+    background-color: #636363;
     border-radius: 2px;
 }
 
 .cray-css-code-round-3 {
-    background-color: #7f8c8d;
+    background-color: #636363;
     border-radius: 3px;
 }
 
 .cray-css-code-round-4 {
-    background-color: #7f8c8d;
+    background-color: #636363;
     border-radius: 4px;
 }
 
 .cray-css-code-round-5 {
-    background-color: #7f8c8d;
+    background-color: #636363;
     border-radius: 5px;
 }
 
 .cray-css-code-round-10 {
-    background-color: #7f8c8d;
+    background-color: #636363;
     border-radius: 10px;
 }
 
 .cray-css-code-round-15 {
-    background-color: #7f8c8d;
+    background-color: #636363;
     border-radius: 15px;
 }
 
 .cray-css-bg-grey {
-    background-color: #7f8c8d;
+    background-color: #636363;
 }
 
 .cray-css-bg-red {
-    background-color: #c0392b;
+    background-color: #ff3838;
 }
 
 .cray-css-bg-green {
-    background-color: #16a085;
+    background-color: #2ecc71;
 }
 
 .cray-css-bg-orange {
-    background-color: #f39c12;
+    background-color: #ffa502;
 }
 
 .cray-css-bg-blue {
@@ -58,24 +58,73 @@
 }
 
 .cray-css-bg-black {
-    background-color: #2c3e50;
+    background-color: black;
 }
 
 .cray-css-bg-white {
-    background-color: #ecf0f1;
+    background-color: white;
 }
 
-.cray-css-notification-image {
-    background-image: url("./../img/success.png");
-    background-repeat: no-repeat;
-    background-position: center right;
-    background-size: 75px;
+.cray-css-bg-grey-round-1 {
+    background-color: #636363;
 }
 
-.cray-css-notification {
-    padding: 1px;
-    width: 250px;
-    background-color: #4ebe0db0;
+.cray-css-bg-red-round-1 {
+    background-color: #ff3838;
+}
+
+.cray-css-bg-green-round-1 {
+    background-color: #2ecc71;
+}
+
+.cray-css-bg-orange-round-1 {
+    background-color: #ffa502;
+}
+
+.cray-css-bg-blue-round-1 {
+    background-color: #3498db;
+}
+
+.cray-css-bg-black-round-1 {
+    background-color: black;
+}
+
+.cray-css-bg-white-round-1 {
+    background-color: white;
+}
+
+.cray-css-bg-grey-round-2 {
+    background-color: #636363;
+}
+
+.cray-css-bg-red-round-2 {
+    background-color: #ff3838;
+}
+
+.cray-css-bg-green-round-2 {
+    background-color: #2ecc71;
+}
+
+.cray-css-bg-orange-round-2 {
+    background-color: #ffa502;
+}
+
+.cray-css-bg-blue-round-2 {
+    background-color: #3498db;
+}
+
+.cray-css-bg-black-round-2 {
+    background-color: black;
+}
+
+.cray-css-bg-white-round-2 {
+    background-color: white;
+}
+
+.cray-css-text-white {
     color: white;
-    font-size: 7.5px;
+}
+
+.cray-css-text-black {
+    color: black;
 }
