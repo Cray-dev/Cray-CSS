@@ -1,3 +1,15 @@
+a, button, input {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+::selection {
+    background-color: rgb(21, 206, 159);
+}
+
 .cray-css-code {
     background-color: #636363;
 }
@@ -127,4 +139,8 @@
 
 .cray-css-text-black {
     color: black;
+}
+
+.circle {
+    border-radius: 240px;
 }
