@@ -4,4 +4,4 @@
 ### CDN:
 
 * Link
-  * [Our CDN](http://cdn.cray-dev.fr/cray-css.css)
+  * [Our CDN](https://cdn.cray-dev.com/cray-css.css)
