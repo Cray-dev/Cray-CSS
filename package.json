@@ -1,0 +1,19 @@
+{
+  "name": "cray-css",
+  "version": "0.0.2",
+  "description": "The framework CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cray-dev/Cray-CSS.git"
+  },
+  "author": "MoskalykA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cray-dev/Cray-CSS/issues"
+  },
+  "homepage": "https://github.com/Cray-dev/Cray-CSS#readme"
+}
