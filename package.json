@@ -1,8 +1,15 @@
 {
   "name": "cray-css",
-  "version": "0.0.2",
+  "version": "1.0.1",
   "description": "The framework CSS.",
   "main": "index.js",
+  "keywords": [
+    "cray",
+    "css",
+    "cray-css",
+    "cray-dev",
+    "framework"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Cray-dev/Cray-CSS/issues"
   },
-  "homepage": "https://github.com/Cray-dev/Cray-CSS#readme"
+  "homepage": "https://github.com/Cray-dev/Cray-CSS#readme",
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/@Cray-dev" 
+  }
 }
