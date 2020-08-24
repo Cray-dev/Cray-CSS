@@ -22,8 +22,5 @@
   "bugs": {
     "url": "https://github.com/Cray-dev/Cray-CSS/issues"
   },
-  "homepage": "https://github.com/Cray-dev/Cray-CSS#readme",
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/@Cray-dev" 
-  }
+  "homepage": "https://github.com/Cray-dev/Cray-CSS#readme"
 }
