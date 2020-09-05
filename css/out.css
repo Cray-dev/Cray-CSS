@@ -3112,6 +3112,974 @@ body {
   border-color: #7f8c8d;
 }
 
+.cray-hover-bg-white-10:hover {
+  background-color: #f1f1f1;
+}
+
+.cray-hover-bg-white-9:hover {
+  background-color: rgba(241, 241, 241, 0.9);
+}
+
+.cray-hover-bg-white-8:hover {
+  background-color: rgba(241, 241, 241, 0.8);
+}
+
+.cray-hover-bg-white-7:hover {
+  background-color: rgba(241, 241, 241, 0.7);
+}
+
+.cray-hover-bg-white-6:hover {
+  background-color: rgba(241, 241, 241, 0.6);
+}
+
+.cray-hover-bg-white-5:hover {
+  background-color: rgba(241, 241, 241, 0.5);
+}
+
+.cray-hover-bg-white-4:hover {
+  background-color: rgba(241, 241, 241, 0.4);
+}
+
+.cray-hover-bg-white-3:hover {
+  background-color: rgba(241, 241, 241, 0.3);
+}
+
+.cray-hover-bg-white-2:hover {
+  background-color: rgba(241, 241, 241, 0.2);
+}
+
+.cray-hover-bg-white-1:hover {
+  background-color: rgba(241, 241, 241, 0.1);
+}
+
+.cray-bg-white :hover {
+  background-color: #f1f1f1;
+}
+
+.cray-hover-bg-black-10:hover {
+  background-color: black;
+}
+
+.cray-hover-bg-black-9:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.cray-hover-bg-black-8:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.cray-hover-bg-black-7:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.cray-hover-bg-black-6:hover {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.cray-hover-bg-black-5:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.cray-hover-bg-black-4:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.cray-hover-bg-black-3:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.cray-hover-bg-black-2:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.cray-hover-bg-black-1:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.cray-bg-black :hover {
+  background-color: #000000;
+}
+
+.cray-hover-bg-turquoise-10:hover {
+  background-color: #339990;
+}
+
+.cray-hover-bg-turquoise-9:hover {
+  background-color: rgba(51, 153, 144, 0.9);
+}
+
+.cray-hover-bg-turquoise-8:hover {
+  background-color: rgba(51, 153, 144, 0.8);
+}
+
+.cray-hover-bg-turquoise-7:hover {
+  background-color: rgba(51, 153, 144, 0.7);
+}
+
+.cray-hover-bg-turquoise-6:hover {
+  background-color: rgba(51, 153, 144, 0.6);
+}
+
+.cray-hover-bg-turquoise-5:hover {
+  background-color: rgba(51, 153, 144, 0.5);
+}
+
+.cray-hover-bg-turquoise-4:hover {
+  background-color: rgba(51, 153, 144, 0.4);
+}
+
+.cray-hover-bg-turquoise-3:hover {
+  background-color: rgba(51, 153, 144, 0.3);
+}
+
+.cray-hover-bg-turquoise-2:hover {
+  background-color: rgba(51, 153, 144, 0.2);
+}
+
+.cray-hover-bg-turquoise-1:hover {
+  background-color: rgba(51, 153, 144, 0.1);
+}
+
+.cray-bg-turquoise :hover {
+  background-color: #339990;
+}
+
+.cray-hover-bg-green-sea-10:hover {
+  background-color: #16a085;
+}
+
+.cray-hover-bg-green-sea-9:hover {
+  background-color: rgba(22, 160, 133, 0.9);
+}
+
+.cray-hover-bg-green-sea-8:hover {
+  background-color: rgba(22, 160, 133, 0.8);
+}
+
+.cray-hover-bg-green-sea-7:hover {
+  background-color: rgba(22, 160, 133, 0.7);
+}
+
+.cray-hover-bg-green-sea-6:hover {
+  background-color: rgba(22, 160, 133, 0.6);
+}
+
+.cray-hover-bg-green-sea-5:hover {
+  background-color: rgba(22, 160, 133, 0.5);
+}
+
+.cray-hover-bg-green-sea-4:hover {
+  background-color: rgba(22, 160, 133, 0.4);
+}
+
+.cray-hover-bg-green-sea-3:hover {
+  background-color: rgba(22, 160, 133, 0.3);
+}
+
+.cray-hover-bg-green-sea-2:hover {
+  background-color: rgba(22, 160, 133, 0.2);
+}
+
+.cray-hover-bg-green-sea-1:hover {
+  background-color: rgba(22, 160, 133, 0.1);
+}
+
+.cray-bg-green-sea :hover {
+  background-color: #16a085;
+}
+
+.cray-hover-bg-emerald-10:hover {
+  background-color: #26a85d;
+}
+
+.cray-hover-bg-emerald-9:hover {
+  background-color: rgba(38, 168, 93, 0.9);
+}
+
+.cray-hover-bg-emerald-8:hover {
+  background-color: rgba(38, 168, 93, 0.8);
+}
+
+.cray-hover-bg-emerald-7:hover {
+  background-color: rgba(38, 168, 93, 0.7);
+}
+
+.cray-hover-bg-emerald-6:hover {
+  background-color: rgba(38, 168, 93, 0.6);
+}
+
+.cray-hover-bg-emerald-5:hover {
+  background-color: rgba(38, 168, 93, 0.5);
+}
+
+.cray-hover-bg-emerald-4:hover {
+  background-color: rgba(38, 168, 93, 0.4);
+}
+
+.cray-hover-bg-emerald-3:hover {
+  background-color: rgba(38, 168, 93, 0.3);
+}
+
+.cray-hover-bg-emerald-2:hover {
+  background-color: rgba(38, 168, 93, 0.2);
+}
+
+.cray-hover-bg-emerald-1:hover {
+  background-color: rgba(38, 168, 93, 0.1);
+}
+
+.cray-bg-emerald :hover {
+  background-color: #26a85d;
+}
+
+.cray-hover-bg-nephritis-10:hover {
+  background-color: #2ca961;
+}
+
+.cray-hover-bg-nephritis-9:hover {
+  background-color: rgba(44, 169, 97, 0.9);
+}
+
+.cray-hover-bg-nephritis-8:hover {
+  background-color: rgba(44, 169, 97, 0.8);
+}
+
+.cray-hover-bg-nephritis-7:hover {
+  background-color: rgba(44, 169, 97, 0.7);
+}
+
+.cray-hover-bg-nephritis-6:hover {
+  background-color: rgba(44, 169, 97, 0.6);
+}
+
+.cray-hover-bg-nephritis-5:hover {
+  background-color: rgba(44, 169, 97, 0.5);
+}
+
+.cray-hover-bg-nephritis-4:hover {
+  background-color: rgba(44, 169, 97, 0.4);
+}
+
+.cray-hover-bg-nephritis-3:hover {
+  background-color: rgba(44, 169, 97, 0.3);
+}
+
+.cray-hover-bg-nephritis-2:hover {
+  background-color: rgba(44, 169, 97, 0.2);
+}
+
+.cray-hover-bg-nephritis-1:hover {
+  background-color: rgba(44, 169, 97, 0.1);
+}
+
+.cray-bg-nephritis :hover {
+  background-color: #2ca961;
+}
+
+.cray-hover-bg-peter-river-10:hover {
+  background-color: #3498db;
+}
+
+.cray-hover-bg-peter-river-9:hover {
+  background-color: rgba(52, 152, 219, 0.9);
+}
+
+.cray-hover-bg-peter-river-8:hover {
+  background-color: rgba(52, 152, 219, 0.8);
+}
+
+.cray-hover-bg-peter-river-7:hover {
+  background-color: rgba(52, 152, 219, 0.7);
+}
+
+.cray-hover-bg-peter-river-6:hover {
+  background-color: rgba(52, 152, 219, 0.6);
+}
+
+.cray-hover-bg-peter-river-5:hover {
+  background-color: rgba(52, 152, 219, 0.5);
+}
+
+.cray-hover-bg-peter-river-4:hover {
+  background-color: rgba(52, 152, 219, 0.4);
+}
+
+.cray-hover-bg-peter-river-3:hover {
+  background-color: rgba(52, 152, 219, 0.3);
+}
+
+.cray-hover-bg-peter-river-2:hover {
+  background-color: rgba(52, 152, 219, 0.2);
+}
+
+.cray-hover-bg-peter-river-1:hover {
+  background-color: rgba(52, 152, 219, 0.1);
+}
+
+.cray-bg-peter-river :hover {
+  background-color: #3498db;
+}
+
+.cray-hover-bg-belize-hole-10:hover {
+  background-color: #2980b9;
+}
+
+.cray-hover-bg-belize-hole-9:hover {
+  background-color: rgba(41, 128, 185, 0.9);
+}
+
+.cray-hover-bg-belize-hole-8:hover {
+  background-color: rgba(41, 128, 185, 0.8);
+}
+
+.cray-hover-bg-belize-hole-7:hover {
+  background-color: rgba(41, 128, 185, 0.7);
+}
+
+.cray-hover-bg-belize-hole-6:hover {
+  background-color: rgba(41, 128, 185, 0.6);
+}
+
+.cray-hover-bg-belize-hole-5:hover {
+  background-color: rgba(41, 128, 185, 0.5);
+}
+
+.cray-hover-bg-belize-hole-4:hover {
+  background-color: rgba(41, 128, 185, 0.4);
+}
+
+.cray-hover-bg-belize-hole-3:hover {
+  background-color: rgba(41, 128, 185, 0.3);
+}
+
+.cray-hover-bg-belize-hole-2:hover {
+  background-color: rgba(41, 128, 185, 0.2);
+}
+
+.cray-hover-bg-belize-hole-1:hover {
+  background-color: rgba(41, 128, 185, 0.1);
+}
+
+.cray-bg-belize-hole :hover {
+  background-color: #2980b9;
+}
+
+.cray-hover-bg-amethyst-10:hover {
+  background-color: #9664ab;
+}
+
+.cray-hover-bg-amethyst-9:hover {
+  background-color: rgba(150, 100, 171, 0.9);
+}
+
+.cray-hover-bg-amethyst-8:hover {
+  background-color: rgba(150, 100, 171, 0.8);
+}
+
+.cray-hover-bg-amethyst-7:hover {
+  background-color: rgba(150, 100, 171, 0.7);
+}
+
+.cray-hover-bg-amethyst-6:hover {
+  background-color: rgba(150, 100, 171, 0.6);
+}
+
+.cray-hover-bg-amethyst-5:hover {
+  background-color: rgba(150, 100, 171, 0.5);
+}
+
+.cray-hover-bg-amethyst-4:hover {
+  background-color: rgba(150, 100, 171, 0.4);
+}
+
+.cray-hover-bg-amethyst-3:hover {
+  background-color: rgba(150, 100, 171, 0.3);
+}
+
+.cray-hover-bg-amethyst-2:hover {
+  background-color: rgba(150, 100, 171, 0.2);
+}
+
+.cray-hover-bg-amethyst-1:hover {
+  background-color: rgba(150, 100, 171, 0.1);
+}
+
+.cray-bg-amethyst :hover {
+  background-color: #9664ab;
+}
+
+.cray-hover-bg-wisteria-10:hover {
+  background-color: #793a93;
+}
+
+.cray-hover-bg-wisteria-9:hover {
+  background-color: rgba(121, 58, 147, 0.9);
+}
+
+.cray-hover-bg-wisteria-8:hover {
+  background-color: rgba(121, 58, 147, 0.8);
+}
+
+.cray-hover-bg-wisteria-7:hover {
+  background-color: rgba(121, 58, 147, 0.7);
+}
+
+.cray-hover-bg-wisteria-6:hover {
+  background-color: rgba(121, 58, 147, 0.6);
+}
+
+.cray-hover-bg-wisteria-5:hover {
+  background-color: rgba(121, 58, 147, 0.5);
+}
+
+.cray-hover-bg-wisteria-4:hover {
+  background-color: rgba(121, 58, 147, 0.4);
+}
+
+.cray-hover-bg-wisteria-3:hover {
+  background-color: rgba(121, 58, 147, 0.3);
+}
+
+.cray-hover-bg-wisteria-2:hover {
+  background-color: rgba(121, 58, 147, 0.2);
+}
+
+.cray-hover-bg-wisteria-1:hover {
+  background-color: rgba(121, 58, 147, 0.1);
+}
+
+.cray-bg-wisteria :hover {
+  background-color: #793a93;
+}
+
+.cray-hover-bg-wet-asphalt-10:hover {
+  background-color: #34495e;
+}
+
+.cray-hover-bg-wet-asphalt-9:hover {
+  background-color: rgba(52, 73, 94, 0.9);
+}
+
+.cray-hover-bg-wet-asphalt-8:hover {
+  background-color: rgba(52, 73, 94, 0.8);
+}
+
+.cray-hover-bg-wet-asphalt-7:hover {
+  background-color: rgba(52, 73, 94, 0.7);
+}
+
+.cray-hover-bg-wet-asphalt-6:hover {
+  background-color: rgba(52, 73, 94, 0.6);
+}
+
+.cray-hover-bg-wet-asphalt-5:hover {
+  background-color: rgba(52, 73, 94, 0.5);
+}
+
+.cray-hover-bg-wet-asphalt-4:hover {
+  background-color: rgba(52, 73, 94, 0.4);
+}
+
+.cray-hover-bg-wet-asphalt-3:hover {
+  background-color: rgba(52, 73, 94, 0.3);
+}
+
+.cray-hover-bg-wet-asphalt-2:hover {
+  background-color: rgba(52, 73, 94, 0.2);
+}
+
+.cray-hover-bg-wet-asphalt-1:hover {
+  background-color: rgba(52, 73, 94, 0.1);
+}
+
+.cray-bg-wet-asphalt :hover {
+  background-color: #34495e;
+}
+
+.cray-hover-bg-midnight-blue-10:hover {
+  background-color: #2c3e50;
+}
+
+.cray-hover-bg-midnight-blue-9:hover {
+  background-color: rgba(44, 62, 80, 0.9);
+}
+
+.cray-hover-bg-midnight-blue-8:hover {
+  background-color: rgba(44, 62, 80, 0.8);
+}
+
+.cray-hover-bg-midnight-blue-7:hover {
+  background-color: rgba(44, 62, 80, 0.7);
+}
+
+.cray-hover-bg-midnight-blue-6:hover {
+  background-color: rgba(44, 62, 80, 0.6);
+}
+
+.cray-hover-bg-midnight-blue-5:hover {
+  background-color: rgba(44, 62, 80, 0.5);
+}
+
+.cray-hover-bg-midnight-blue-4:hover {
+  background-color: rgba(44, 62, 80, 0.4);
+}
+
+.cray-hover-bg-midnight-blue-3:hover {
+  background-color: rgba(44, 62, 80, 0.3);
+}
+
+.cray-hover-bg-midnight-blue-2:hover {
+  background-color: rgba(44, 62, 80, 0.2);
+}
+
+.cray-hover-bg-midnight-blue-1:hover {
+  background-color: rgba(44, 62, 80, 0.1);
+}
+
+.cray-bg-midnight-blue :hover {
+  background-color: #2c3e50;
+}
+
+.cray-hover-bg-sun-flower-10:hover {
+  background-color: #e6e351;
+}
+
+.cray-hover-bg-sun-flower-9:hover {
+  background-color: rgba(230, 227, 81, 0.9);
+}
+
+.cray-hover-bg-sun-flower-8:hover {
+  background-color: rgba(230, 227, 81, 0.8);
+}
+
+.cray-hover-bg-sun-flower-7:hover {
+  background-color: rgba(230, 227, 81, 0.7);
+}
+
+.cray-hover-bg-sun-flower-6:hover {
+  background-color: rgba(230, 227, 81, 0.6);
+}
+
+.cray-hover-bg-sun-flower-5:hover {
+  background-color: rgba(230, 227, 81, 0.5);
+}
+
+.cray-hover-bg-sun-flower-4:hover {
+  background-color: rgba(230, 227, 81, 0.4);
+}
+
+.cray-hover-bg-sun-flower-3:hover {
+  background-color: rgba(230, 227, 81, 0.3);
+}
+
+.cray-hover-bg-sun-flower-2:hover {
+  background-color: rgba(230, 227, 81, 0.2);
+}
+
+.cray-hover-bg-sun-flower-1:hover {
+  background-color: rgba(230, 227, 81, 0.1);
+}
+
+.cray-bg-sun-flower :hover {
+  background-color: #e6e351;
+}
+
+.cray-hover-bg-carrot-10:hover {
+  background-color: #e67e22;
+}
+
+.cray-hover-bg-carrot-9:hover {
+  background-color: rgba(230, 126, 34, 0.9);
+}
+
+.cray-hover-bg-carrot-8:hover {
+  background-color: rgba(230, 126, 34, 0.8);
+}
+
+.cray-hover-bg-carrot-7:hover {
+  background-color: rgba(230, 126, 34, 0.7);
+}
+
+.cray-hover-bg-carrot-6:hover {
+  background-color: rgba(230, 126, 34, 0.6);
+}
+
+.cray-hover-bg-carrot-5:hover {
+  background-color: rgba(230, 126, 34, 0.5);
+}
+
+.cray-hover-bg-carrot-4:hover {
+  background-color: rgba(230, 126, 34, 0.4);
+}
+
+.cray-hover-bg-carrot-3:hover {
+  background-color: rgba(230, 126, 34, 0.3);
+}
+
+.cray-hover-bg-carrot-2:hover {
+  background-color: rgba(230, 126, 34, 0.2);
+}
+
+.cray-hover-bg-carrot-1:hover {
+  background-color: rgba(230, 126, 34, 0.1);
+}
+
+.cray-bg-carrot :hover {
+  background-color: #e67e22;
+}
+
+.cray-hover-bg-alizarin-10:hover {
+  background-color: #e74c3c;
+}
+
+.cray-hover-bg-alizarin-9:hover {
+  background-color: rgba(231, 76, 60, 0.9);
+}
+
+.cray-hover-bg-alizarin-8:hover {
+  background-color: rgba(231, 76, 60, 0.8);
+}
+
+.cray-hover-bg-alizarin-7:hover {
+  background-color: rgba(231, 76, 60, 0.7);
+}
+
+.cray-hover-bg-alizarin-6:hover {
+  background-color: rgba(231, 76, 60, 0.6);
+}
+
+.cray-hover-bg-alizarin-5:hover {
+  background-color: rgba(231, 76, 60, 0.5);
+}
+
+.cray-hover-bg-alizarin-4:hover {
+  background-color: rgba(231, 76, 60, 0.4);
+}
+
+.cray-hover-bg-alizarin-3:hover {
+  background-color: rgba(231, 76, 60, 0.3);
+}
+
+.cray-hover-bg-alizarin-2:hover {
+  background-color: rgba(231, 76, 60, 0.2);
+}
+
+.cray-hover-bg-alizarin-1:hover {
+  background-color: rgba(231, 76, 60, 0.1);
+}
+
+.cray-bg-alizarin :hover {
+  background-color: #e74c3c;
+}
+
+.cray-hover-bg-clouds-10:hover {
+  background-color: #ecf0f1;
+}
+
+.cray-hover-bg-clouds-9:hover {
+  background-color: rgba(236, 240, 241, 0.9);
+}
+
+.cray-hover-bg-clouds-8:hover {
+  background-color: rgba(236, 240, 241, 0.8);
+}
+
+.cray-hover-bg-clouds-7:hover {
+  background-color: rgba(236, 240, 241, 0.7);
+}
+
+.cray-hover-bg-clouds-6:hover {
+  background-color: rgba(236, 240, 241, 0.6);
+}
+
+.cray-hover-bg-clouds-5:hover {
+  background-color: rgba(236, 240, 241, 0.5);
+}
+
+.cray-hover-bg-clouds-4:hover {
+  background-color: rgba(236, 240, 241, 0.4);
+}
+
+.cray-hover-bg-clouds-3:hover {
+  background-color: rgba(236, 240, 241, 0.3);
+}
+
+.cray-hover-bg-clouds-2:hover {
+  background-color: rgba(236, 240, 241, 0.2);
+}
+
+.cray-hover-bg-clouds-1:hover {
+  background-color: rgba(236, 240, 241, 0.1);
+}
+
+.cray-bg-clouds :hover {
+  background-color: #ecf0f1;
+}
+
+.cray-hover-bg-concrete-10:hover {
+  background-color: #95a5a6;
+}
+
+.cray-hover-bg-concrete-9:hover {
+  background-color: rgba(149, 165, 166, 0.9);
+}
+
+.cray-hover-bg-concrete-8:hover {
+  background-color: rgba(149, 165, 166, 0.8);
+}
+
+.cray-hover-bg-concrete-7:hover {
+  background-color: rgba(149, 165, 166, 0.7);
+}
+
+.cray-hover-bg-concrete-6:hover {
+  background-color: rgba(149, 165, 166, 0.6);
+}
+
+.cray-hover-bg-concrete-5:hover {
+  background-color: rgba(149, 165, 166, 0.5);
+}
+
+.cray-hover-bg-concrete-4:hover {
+  background-color: rgba(149, 165, 166, 0.4);
+}
+
+.cray-hover-bg-concrete-3:hover {
+  background-color: rgba(149, 165, 166, 0.3);
+}
+
+.cray-hover-bg-concrete-2:hover {
+  background-color: rgba(149, 165, 166, 0.2);
+}
+
+.cray-hover-bg-concrete-1:hover {
+  background-color: rgba(149, 165, 166, 0.1);
+}
+
+.cray-bg-concrete :hover {
+  background-color: #95a5a6;
+}
+
+.cray-hover-bg-orange-10:hover {
+  background-color: #f39c12;
+}
+
+.cray-hover-bg-orange-9:hover {
+  background-color: rgba(243, 156, 18, 0.9);
+}
+
+.cray-hover-bg-orange-8:hover {
+  background-color: rgba(243, 156, 18, 0.8);
+}
+
+.cray-hover-bg-orange-7:hover {
+  background-color: rgba(243, 156, 18, 0.7);
+}
+
+.cray-hover-bg-orange-6:hover {
+  background-color: rgba(243, 156, 18, 0.6);
+}
+
+.cray-hover-bg-orange-5:hover {
+  background-color: rgba(243, 156, 18, 0.5);
+}
+
+.cray-hover-bg-orange-4:hover {
+  background-color: rgba(243, 156, 18, 0.4);
+}
+
+.cray-hover-bg-orange-3:hover {
+  background-color: rgba(243, 156, 18, 0.3);
+}
+
+.cray-hover-bg-orange-2:hover {
+  background-color: rgba(243, 156, 18, 0.2);
+}
+
+.cray-hover-bg-orange-1:hover {
+  background-color: rgba(243, 156, 18, 0.1);
+}
+
+.cray-bg-orange :hover {
+  background-color: #f39c12;
+}
+
+.cray-hover-bg-pumpkin-10:hover {
+  background-color: #d35400;
+}
+
+.cray-hover-bg-pumpkin-9:hover {
+  background-color: rgba(211, 84, 0, 0.9);
+}
+
+.cray-hover-bg-pumpkin-8:hover {
+  background-color: rgba(211, 84, 0, 0.8);
+}
+
+.cray-hover-bg-pumpkin-7:hover {
+  background-color: rgba(211, 84, 0, 0.7);
+}
+
+.cray-hover-bg-pumpkin-6:hover {
+  background-color: rgba(211, 84, 0, 0.6);
+}
+
+.cray-hover-bg-pumpkin-5:hover {
+  background-color: rgba(211, 84, 0, 0.5);
+}
+
+.cray-hover-bg-pumpkin-4:hover {
+  background-color: rgba(211, 84, 0, 0.4);
+}
+
+.cray-hover-bg-pumpkin-3:hover {
+  background-color: rgba(211, 84, 0, 0.3);
+}
+
+.cray-hover-bg-pumpkin-2:hover {
+  background-color: rgba(211, 84, 0, 0.2);
+}
+
+.cray-hover-bg-pumpkin-1:hover {
+  background-color: rgba(211, 84, 0, 0.1);
+}
+
+.cray-bg-pumpkin :hover {
+  background-color: #d35400;
+}
+
+.cray-hover-bg-pomegranate-10:hover {
+  background-color: #c0392b;
+}
+
+.cray-hover-bg-pomegranate-9:hover {
+  background-color: rgba(192, 57, 43, 0.9);
+}
+
+.cray-hover-bg-pomegranate-8:hover {
+  background-color: rgba(192, 57, 43, 0.8);
+}
+
+.cray-hover-bg-pomegranate-7:hover {
+  background-color: rgba(192, 57, 43, 0.7);
+}
+
+.cray-hover-bg-pomegranate-6:hover {
+  background-color: rgba(192, 57, 43, 0.6);
+}
+
+.cray-hover-bg-pomegranate-5:hover {
+  background-color: rgba(192, 57, 43, 0.5);
+}
+
+.cray-hover-bg-pomegranate-4:hover {
+  background-color: rgba(192, 57, 43, 0.4);
+}
+
+.cray-hover-bg-pomegranate-3:hover {
+  background-color: rgba(192, 57, 43, 0.3);
+}
+
+.cray-hover-bg-pomegranate-2:hover {
+  background-color: rgba(192, 57, 43, 0.2);
+}
+
+.cray-hover-bg-pomegranate-1:hover {
+  background-color: rgba(192, 57, 43, 0.1);
+}
+
+.cray-bg-pomegranate :hover {
+  background-color: #c0392b;
+}
+
+.cray-hover-bg-silver-10:hover {
+  background-color: #bdc3c7;
+}
+
+.cray-hover-bg-silver-9:hover {
+  background-color: rgba(189, 195, 199, 0.9);
+}
+
+.cray-hover-bg-silver-8:hover {
+  background-color: rgba(189, 195, 199, 0.8);
+}
+
+.cray-hover-bg-silver-7:hover {
+  background-color: rgba(189, 195, 199, 0.7);
+}
+
+.cray-hover-bg-silver-6:hover {
+  background-color: rgba(189, 195, 199, 0.6);
+}
+
+.cray-hover-bg-silver-5:hover {
+  background-color: rgba(189, 195, 199, 0.5);
+}
+
+.cray-hover-bg-silver-4:hover {
+  background-color: rgba(189, 195, 199, 0.4);
+}
+
+.cray-hover-bg-silver-3:hover {
+  background-color: rgba(189, 195, 199, 0.3);
+}
+
+.cray-hover-bg-silver-2:hover {
+  background-color: rgba(189, 195, 199, 0.2);
+}
+
+.cray-hover-bg-silver-1:hover {
+  background-color: rgba(189, 195, 199, 0.1);
+}
+
+.cray-bg-silver :hover {
+  background-color: #bdc3c7;
+}
+
+.cray-hover-bg-asbestos-10:hover {
+  background-color: #7f8c8d;
+}
+
+.cray-hover-bg-asbestos-9:hover {
+  background-color: rgba(127, 140, 141, 0.9);
+}
+
+.cray-hover-bg-asbestos-8:hover {
+  background-color: rgba(127, 140, 141, 0.8);
+}
+
+.cray-hover-bg-asbestos-7:hover {
+  background-color: rgba(127, 140, 141, 0.7);
+}
+
+.cray-hover-bg-asbestos-6:hover {
+  background-color: rgba(127, 140, 141, 0.6);
+}
+
+.cray-hover-bg-asbestos-5:hover {
+  background-color: rgba(127, 140, 141, 0.5);
+}
+
+.cray-hover-bg-asbestos-4:hover {
+  background-color: rgba(127, 140, 141, 0.4);
+}
+
+.cray-hover-bg-asbestos-3:hover {
+  background-color: rgba(127, 140, 141, 0.3);
+}
+
+.cray-hover-bg-asbestos-2:hover {
+  background-color: rgba(127, 140, 141, 0.2);
+}
+
+.cray-hover-bg-asbestos-1:hover {
+  background-color: rgba(127, 140, 141, 0.1);
+}
+
+.cray-bg-asbestos :hover {
+  background-color: #7f8c8d;
+}
+
 .cray-text-size-0 {
   font-size: 0rem;
 }
@@ -4268,4 +5236,8 @@ body {
   font-style: normal;
   font-weight: 300;
   font-display: swap;
+}
+
+.test-hover:hover {
+  font-size: 300px;
 }
