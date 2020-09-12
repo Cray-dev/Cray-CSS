@@ -5,7 +5,7 @@
 
 * Link
   * [Our Cray-CDN (MINIMIZE)](https://cdn.cray-dev.com/cray-css-minimize.css)
-  * [Our UNPKG-CDN (MINIMIZE)](https://unpkg.com/cray-css@1.1.0/css/cray-css-minimize.css)
+  * [Our UNPKG-CDN (MINIMIZE)](https://unpkg.com/cray-css/css/cray-css-minimize.css)
 
 ### Docs
 ## The documentation will arrive in the coming days!
