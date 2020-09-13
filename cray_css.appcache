@@ -1,5 +1,18 @@
 CACHE MANIFEST
 
+css/cray-css-minimize.css
+css/cray-css.css
+js/index.js
+js/fonts/index.js
+js/index_minimize.js
+js/fonts/index_minimize.js
+img/error.svg
+img/info.svg
+img/success.svg
+fonts/KumbhSans-Bold.ttf
+fonts/KumbhSans-Light.ttf
+fonts/KumbhSans-Regular.ttf
+
 https://unpkg.com/cray-css/css/cray-css-minimize.css
 https://unpkg.com/cray-css/css/cray-css.css
 https://unpkg.com/cray-css/js/index.js
