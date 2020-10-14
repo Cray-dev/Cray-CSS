@@ -1,8 +1,8 @@
 {
   "name": "cray-css",
-  "version": "1.0.2",
+  "version": "2.4.0",
   "description": "The framework CSS.",
-  "main": "index.js",
+  "main": "js/index.js",
   "keywords": [
     "cray",
     "css",
@@ -10,9 +10,6 @@
     "cray-dev",
     "framework"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Cray-dev/Cray-CSS.git"
